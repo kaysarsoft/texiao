@@ -25,12 +25,12 @@
 <script type="text/css">
 .button{
         background-color: #4CAF50; /* 颜色 */
-            border: none;
-                color: white;
-                    padding:6px 20px;
-                        text-align: center;
-                            font-size: 16px;
-                                border-radius: 12px;
+        border: none;
+        color: white;
+        padding:6px 20px;
+        text-align: center;
+        font-size: 16px;
+        border-radius: 12px;
                                     
 }
 .a{
