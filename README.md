@@ -28,8 +28,7 @@
      <a style="background-color: #4CAF50;border: none; color: white;padding:6px 20px;text-align: center;font-size: 16px;border-radius: 12px;font-size: 15px;" href="http://124.222.6.169/youhui/hdk" rel="nofollow" target="_blank" >网购优惠券②</a>
      <a style="background-color: #4CAF50;border: none; color: white;padding:6px 20px;text-align: center;font-size: 16px;border-radius: 12px;font-size: 15px;" href="http://124.222.6.169/youhui/dtk" rel="nofollow" target="_blank" >网购优惠券③</a>
      <a style="background-color: #4CAF50;border: none; color: white;padding:6px 20px;text-align: center;font-size: 16px;border-radius: 12px;font-size: 15px;" href="http://124.222.6.169/vip/waimai/" rel="nofollow" target="_blank" >外卖内部券</a>
-      
-     <a style="background-color: #4CAF50;border: none; color: white;padding:6px 20px;text-align: center;font-size: 16px;border-radius: 12px;font-size: 15px;" href="http://124.222.6.169/vip/dy/" rel="nofollow" target="_blank">1号影视</a>
+      <a style="background-color: #4CAF50;border: none; color: white;padding:6px 20px;text-align: center;font-size: 16px;border-radius: 12px;font-size: 15px;" href="http://124.222.6.169/vip/dy/" rel="nofollow" target="_blank">1号影视</a>
      <a style="background-color: #4CAF50;border: none; color: white;padding:6px 20px;text-align: center;font-size: 16px;border-radius: 12px;font-size: 15px;" href="http://124.222.6.169/vip/v/" rel="nofollow" target="_blank">VIP电影免费看</a>
      <a style="background-color: #4CAF50;border: none; color: white;padding:6px 20px;text-align: center;font-size: 16px;border-radius: 12px;font-size: 15px;" href="http://124.222.6.169/vip/music/" rel="nofollow" target="_blank">VIP音乐免费下载</a>
      <a style="background-color: #4CAF50;border: none; color: white;padding:6px 20px;text-align: center;font-size: 16px;border-radius: 12px;font-size: 15px;" href="http://124.222.6.169/vip/wenkufuzhi/" rel="nofollow" target="_blank">百度文库复制</a>
