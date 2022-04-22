@@ -11,7 +11,7 @@
 
 ### 请我喝杯奶茶
 
-![](https://pic.imgdb.cn/item/6153f6f72ab3f51d91f8ef3b.png)
+<img src="https://pic.imgdb.cn/item/6153f6f72ab3f51d91f8ef3b.png" width="200px">
 
 ### 联系站长 Q Q：1290361724
 
@@ -22,42 +22,21 @@
 若本站内容侵犯了您的权益，请与1290361724@qq.com联系，核实后将在第一时间处理！
 
 ```
-<script type="text/css">
-.button{
-        background-color: #4CAF50; /* 颜色 */
-        border: none;
-        color: white;
-        padding:6px 20px;
-        text-align: center;
-        font-size: 16px;
-        border-radius: 12px;
-                                    
-}
-.a{
-        font-size: 15px;;
-}
-</script>
-<a class="button a" href="http://124.222.6.169/about/" rel="nofollow" target="_blank" >关于作者</a>
-     <a class="button a" href="http://124.222.6.169/wk/123/" rel="nofollow" target="_blank"  >网课代刷</a>
-    <a class="button a" href="http://124.222.6.169/blog/" rel="nofollow" target="_blank"  >博客</a>
-     <a class="button a" href="http://gwzs.haotquan.com" rel="nofollow" target="_blank" >网购优惠券①</a>
-     <a class="button a" href="http://124.222.6.169/youhui/hdk" rel="nofollow" target="_blank" >网购优惠券②</a>
-     <a class="button a" href="http://124.222.6.169/youhui/dtk" rel="nofollow" target="_blank" >网购优惠券③</a>
-     <a class="button a" href="http://124.222.6.169/vip/waimai/" rel="nofollow" target="_blank" >外卖内部券</a>
+<a style="background-color: #4CAF50; /* 颜色 */ border: none; color: white;padding:6px 20px;text-align: center;font-size: 16px;border-radius: 12px;font-size: 15px;" href="http://124.222.6.169/about/" rel="nofollow" target="_blank" >关于作者</a>
+     <a style="background-color: #4CAF50; /* 颜色 */ border: none; color: white;padding:6px 20px;text-align: center;font-size: 16px;border-radius: 12px;font-size: 15px;" href="http://124.222.6.169/wk/123/" rel="nofollow" target="_blank"  >网课代刷</a>
+    <a style="background-color: #4CAF50; /* 颜色 */ border: none; color: white;padding:6px 20px;text-align: center;font-size: 16px;border-radius: 12px;font-size: 15px;" href="http://124.222.6.169/blog/" rel="nofollow" target="_blank"  >博客</a>
+     <a style="background-color: #4CAF50; /* 颜色 */ border: none; color: white;padding:6px 20px;text-align: center;font-size: 16px;border-radius: 12px;font-size: 15px;" href="http://gwzs.haotquan.com" rel="nofollow" target="_blank" >网购优惠券①</a>
+     <a style="background-color: #4CAF50; /* 颜色 */ border: none; color: white;padding:6px 20px;text-align: center;font-size: 16px;border-radius: 12px;font-size: 15px;" href="http://124.222.6.169/youhui/hdk" rel="nofollow" target="_blank" >网购优惠券②</a>
+     <a style="background-color: #4CAF50; /* 颜色 */ border: none; color: white;padding:6px 20px;text-align: center;font-size: 16px;border-radius: 12px;font-size: 15px;" href="http://124.222.6.169/youhui/dtk" rel="nofollow" target="_blank" >网购优惠券③</a>
+     <a style="background-color: #4CAF50; /* 颜色 */ border: none; color: white;padding:6px 20px;text-align: center;font-size: 16px;border-radius: 12px;font-size: 15px;" href="http://124.222.6.169/vip/waimai/" rel="nofollow" target="_blank" >外卖内部券</a>
       
-     <a class="button a" href="http://124.222.6.169/vip/dy/" rel="nofollow" target="_blank">1号影视</a>
-     <a class="button a" href="http://124.222.6.169/vip/v/" rel="nofollow" target="_blank">VIP电影免费看</a>
-     <a class="button a" href="http://124.222.6.169/vip/music/" rel="nofollow" target="_blank">VIP音乐免费下载</a>
-     <a class="button a" href="http://124.222.6.169/vip/wenkufuzhi/" rel="nofollow" target="_blank">百度文库复制</a>
-     <a class="button a" href="http://124.222.6.169/vip/bdwp/" rel="nofollow" target="_blank">百度网盘下载</a>
-
-     <a class="button a" href="http://124.222.6.169/vip/api/" rel="nofollow" target="_blank">娱乐系统</a>
-     <a class="button a" href="http://124.222.6.169/vip/guanbi/" rel="nofollow" target="_blank">网课查题</a>
-     <a class="button a" href="http://124.222.6.169:5244/" rel="nofollow" target="_blank">凯撒云盘</a>
+     <a style="background-color: #4CAF50; /* 颜色 */ border: none; color: white;padding:6px 20px;text-align: center;font-size: 16px;border-radius: 12px;font-size: 15px;" href="http://124.222.6.169/vip/dy/" rel="nofollow" target="_blank">1号影视</a>
+     <a style="background-color: #4CAF50; /* 颜色 */ border: none; color: white;padding:6px 20px;text-align: center;font-size: 16px;border-radius: 12px;font-size: 15px;" href="http://124.222.6.169/vip/v/" rel="nofollow" target="_blank">VIP电影免费看</a>
+     <a style="background-color: #4CAF50; /* 颜色 */ border: none; color: white;padding:6px 20px;text-align: center;font-size: 16px;border-radius: 12px;font-size: 15px;" href="http://124.222.6.169/vip/music/" rel="nofollow" target="_blank">VIP音乐免费下载</a>
+     <a style="background-color: #4CAF50; /* 颜色 */ border: none; color: white;padding:6px 20px;text-align: center;font-size: 16px;border-radius: 12px;font-size: 15px;" href="http://124.222.6.169/vip/wenkufuzhi/" rel="nofollow" target="_blank">百度文库复制</a>
+     <a style="background-color: #4CAF50; /* 颜色 */ border: none; color: white;padding:6px 20px;text-align: center;font-size: 16px;border-radius: 12px;font-size: 15px;" href="http://124.222.6.169/vip/bdwp/" rel="nofollow" target="_blank">百度网盘下载</a>
+     <a style="background-color: #4CAF50; /* 颜色 */ border: none; color: white;padding:6px 20px;text-align: center;font-size: 16px;border-radius: 12px;font-size: 15px;" href="http://124.222.6.169/vip/api/" rel="nofollow" target="_blank">娱乐系统</a>
+     <a style="background-color: #4CAF50; /* 颜色 */ border: none; color: white;padding:6px 20px;text-align: center;font-size: 16px;border-radius: 12px;font-size: 15px;" href="http://124.222.6.169/vip/guanbi/" rel="nofollow" target="_blank">网课查题</a>
+     <a style="background-color: #4CAF50; /* 颜色 */ border: none; color: white;padding:6px 20px;text-align: center;font-size: 16px;border-radius: 12px;font-size: 15px;" href="http://124.222.6.169:5244/" rel="nofollow" target="_blank">凯撒云盘</a>
     </div>
-
 ```
-
-
-
-
