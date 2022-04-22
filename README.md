@@ -1,39 +1,59 @@
-# 网页特效
+<h1 align="center" style="font-size:35px;">公告</h1>
 
-#### 介绍
-{**以下是 Gitee 平台说明，您可以替换此简介**
-Gitee 是 OSCHINA 推出的基于 Git 的代码托管平台（同时支持 SVN）。专为开发者提供稳定、高效、安全的云端软件开发协作平台
-无论是个人、团队、或是企业，都能够用 Gitee 实现代码托管、项目管理、协作开发。企业项目请看 [https://gitee.com/enterprises](https://gitee.com/enterprises)}
-
-#### 软件架构
-软件架构说明
-
-
-#### 安装教程
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 使用说明
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 参与贡献
-
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
+### 特效范围
+- 梅花
+- 樱花
+- 雪花
+- 黑白
+- 你想到想不到都有
+- ...
 
 
-#### 特技
+### 请我喝杯奶茶
 
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+![](https://pic.imgdb.cn/item/6153f6f72ab3f51d91f8ef3b.png)
+
+### 联系站长 Q Q：1290361724
+
+### 说明
+
+本站所提供的一切资源及软件均从互联网公开渠道收集整理，仅限用于学习和交流目的！
+
+若本站内容侵犯了您的权益，请与1290361724@qq.com联系，核实后将在第一时间处理！
+
+<script type="text/css">
+.button{
+        background-color: #4CAF50; /* 颜色 */
+            border: none;
+                color: white;
+                    padding:6px 20px;
+                        text-align: center;
+                            font-size: 16px;
+                                border-radius: 12px;
+                                    
+}
+.a{
+        font-size: 15px;;
+}
+</script>
+<a class="button a" href="http://124.222.6.169/about/" rel="nofollow" target="_blank" >关于作者</a>
+     <a class="button a" href="http://124.222.6.169/wk/123/" rel="nofollow" target="_blank"  >网课代刷</a>
+    <a class="button a" href="http://124.222.6.169/blog/" rel="nofollow" target="_blank"  >博客</a>
+     <a class="button a" href="http://gwzs.haotquan.com" rel="nofollow" target="_blank" >网购优惠券①</a>
+     <a class="button a" href="http://124.222.6.169/youhui/hdk" rel="nofollow" target="_blank" >网购优惠券②</a>
+     <a class="button a" href="http://124.222.6.169/youhui/dtk" rel="nofollow" target="_blank" >网购优惠券③</a>
+     <a class="button a" href="http://124.222.6.169/vip/waimai/" rel="nofollow" target="_blank" >外卖内部券</a>
+      
+     <a class="button a" href="http://124.222.6.169/vip/dy/" rel="nofollow" target="_blank">1号影视</a>
+     <a class="button a" href="http://124.222.6.169/vip/v/" rel="nofollow" target="_blank">VIP电影免费看</a>
+     <a class="button a" href="http://124.222.6.169/vip/music/" rel="nofollow" target="_blank">VIP音乐免费下载</a>
+     <a class="button a" href="http://124.222.6.169/vip/wenkufuzhi/" rel="nofollow" target="_blank">百度文库复制</a>
+     <a class="button a" href="http://124.222.6.169/vip/bdwp/" rel="nofollow" target="_blank">百度网盘下载</a>
+
+     <a class="button a" href="http://124.222.6.169/vip/api/" rel="nofollow" target="_blank">娱乐系统</a>
+     <a class="button a" href="http://124.222.6.169/vip/guanbi/" rel="nofollow" target="_blank">网课查题</a>
+     <a class="button a" href="http://124.222.6.169:5244/" rel="nofollow" target="_blank">凯撒云盘</a>
+    </div>
+
+
+
