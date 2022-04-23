@@ -25,25 +25,25 @@
     <div class="buttons is-centered are-small">
         <a class="button is-info donate" href="http://wpa.qq.com/msgrd?v=3&amp;uin=3161856121&amp;site=qq&amp;menu=yes" target="_blank" title="联系站长">
             <span class="icon is-small">
-                <i class="fa-brands fa-qq"></i>
+                <i class="fa-qq"></i>
             </span>
             <span>联系站长</span>
         </a>
         <a class="button is-dark donate" href="http://124.222.6.169/about/" target="_blank" title="Dark Mode">
             <span class="icon is-small">
-                <i class="fa-solid fa-info-circle"></i>
+                <i class="fa-info-circle"></i>
             </span>
             <span>关于</span>
         </a>
         <a class="button is-warning donate" href="http://124.222.6.169" target="_blank" title="主页">
             <span class="icon is-small">
-                <i class="fa-solid fa-house"></i> 
+                <i class="fa-house"></i> 
             </span>
             <span>主页</span>
         </a>
         <a class="button is-success donate" href="http://gwzs.haotquan.com/" target="_blank" title="优惠商城">
             <span class="icon is-small">
-                <i class="fa-solid fa-bars"></i>
+                <i class="fa-bars"></i>
             </span>
             <span>优惠商城</span>
         </a>
