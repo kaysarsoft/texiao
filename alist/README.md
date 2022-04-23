@@ -10,8 +10,7 @@
 
 
 ### 请我喝杯奶茶
-
-![](https://pic.imgdb.cn/item/6153f6f72ab3f51d91f8ef3b.png)
+<img src="https://pic.imgdb.cn/item/6153f6f72ab3f51d91f8ef3b.png" width="200px">
 
 ### 联系站长 Q Q：1290361724
 
