@@ -10,9 +10,9 @@
 
 
 ### 请我喝杯奶茶
-
+<p align=center>
 <img src="https://pic.imgdb.cn/item/6153f6f72ab3f51d91f8ef3b.png" width="200px">
-
+</p>
 ### 联系站长 Q Q：1290361724
 
 ### 说明
