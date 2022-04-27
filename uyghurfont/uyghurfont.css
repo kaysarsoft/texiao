@@ -2,69 +2,9 @@
 
 @font-face {
 
-        font-family: "alkatip basma";
-
-            font-style:  normal;
-
-                font-weight: normal;
-
-                    src: url('/font/ALKATIPBasma.eot');
-
-}
-
-@font-face {
-
-        font-family: 'alkatip basma';
-
-            src: url('ALKATIPBasma.ttf') format('truetype');
-
-                font-weight: normal;
-
-                    font-style: normal;
-
-}
-
-@font-face {
-
-        font-family: "alkatip basma tom";
-
-            font-style:  normal;
-
-                font-weight: normal;
-
-                    src: url('/font/ALKATIPBasmaTom.eot');
-
-}
-
-@font-face {
-
         font-family: 'alkatip basma tom';
 
-            src: url('ALKATIPBasmaTom.ttf') format('truetype');
-
-                font-weight: normal;
-
-                    font-style: normal;
-
-}
-
-@font-face {
-
-        font-family: "Alkatip tor";
-
-            font-style:  normal;
-
-                font-weight: normal;
-
-                    src: url(/font/ALKATIPTor.eot);
-
-}
-
-@font-face {
-
-        font-family: 'ukij tuz tom';
-
-            src: url('UKIJTuT.ttf') format('truetype');
+            src: url('https://cdn.jsdelivr.net/gh/kaysarbiz/texiao@main/uyghurfont/ALKATIPBasmaTom.ttf') format('truetype');
 
                 font-weight: normal;
 
@@ -76,7 +16,7 @@
 
         font-family: 'alkatip tor';
 
-            src: url('ALKATIPTor.ttf') format('truetype');
+            src: url('https://cdn.jsdelivr.net/gh/kaysarbiz/texiao@main/uyghurfont/ALKATIPTor.ttf') format('truetype');
 
                 font-weight: normal;
 
@@ -118,41 +58,6 @@ h1 *, h2 *, h3 *, b * ,strong *{
 
 }
 
-h1 {
-
-        font-size: 28px;
-
-}
-
-h2 {
-
-        font-size: 22px;
-
-}
-
-h3 {
-
-        font-size: 16px;
-
-}
-
-h4 {
-
-        font-size: 15px;
-
-}
-
-h5 {
-
-        font-size: 14px;
-
-}
-
-h6 {
-
-        font-size: 14px;
-
-}
 
 .normal {
 
