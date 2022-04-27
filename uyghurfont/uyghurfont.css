@@ -4,11 +4,11 @@
 
         font-family: 'alkatip basma tom';
 
-            src: url('https://cdn.jsdelivr.net/gh/kaysarbiz/texiao@main/uyghurfont/ALKATIPBasmaTom.ttf') format('truetype');
+        src: url('https://cdn.jsdelivr.net/gh/kaysarbiz/texiao@main/uyghurfont/ALKATIPBasmaTom.ttf') format('truetype');
 
-                font-weight: normal;
+        font-weight: normal;
 
-                    font-style: normal;
+        font-style: normal;
 
 }
 
@@ -16,11 +16,11 @@
 
         font-family: 'alkatip tor';
 
-            src: url('https://cdn.jsdelivr.net/gh/kaysarbiz/texiao@main/uyghurfont/ALKATIPTor.ttf') format('truetype');
+        src: url('https://cdn.jsdelivr.net/gh/kaysarbiz/texiao@main/uyghurfont/ALKATIPTor.ttf') format('truetype');
 
-                font-weight: normal;
+        font-weight: normal;
 
-                    font-style: normal;
+        font-style: normal;
 
 }
 
@@ -40,9 +40,9 @@ p {
 
         font-family: "alkatip tor", serif;
 
-            direction: rtl;
+        direction: rtl;
 
-                font-weight: 100;
+        font-weight: 100;
 
 }
 
@@ -50,9 +50,8 @@ div.column div.column-title,
 
 div.column div.column-title *,
 
-h1, h2, h3,  b, strong,
-
-h1 *, h2 *, h3 *, b * ,strong *{
+body,h1, h2, h3,  b, strong,
+body*,h1 *, h2 *, h3 *, b * ,strong *{
 
         font-family: "alkatip basma tom", "微软雅黑", serif;
 
