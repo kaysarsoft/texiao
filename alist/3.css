@@ -1,15 +1,15 @@
 .chakra-ui-light{
-  background-image: linear-gradient(120deg,#e0c3fc 0%,#8ec5fc 100%) !important;
-  background-attachment: fixed;
+  background-image: url("https://api.123home.page/api.php?category=landscape") !important;
+  background-repeat:no-repeat;background-size:cover;background-attachment:fixed;background-position-x:center;
 }
 .main-box {
   border-radius: 15px !important;
 }
 .chakra-ui-light .main-box {
-  background-color: white !important;
+  background-color: #ffffff70 !important;
 }
 .chakra-ui-light .readme-box {
-  background-color: white !important;
+  background-color: #ffffff70 !important;
 }
 .readme-box {
   border-radius: 15px !important;
