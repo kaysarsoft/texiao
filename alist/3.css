@@ -1,0 +1,17 @@
+.foot{
+    line-height: 40px;
+    /*   position: fixed; */
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    letter-spacing: 1px;
+}
+.foot p{color: #000;!important;}
+dibu {
+    border-top: 0px;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    margin: 0px;
+    padding: 0px;
+} 
