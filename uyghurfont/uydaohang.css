@@ -18,3 +18,20 @@ body*,h1 *, h2 *, h3 *, b * ,strong *{
         font-family: "alkatip basma tom", serif;
 
 }
+.uy {
+
+        direction: rtl;
+
+            font-family: "alkatip tor", serif;
+
+}
+
+.cn {
+
+        direction: ltr;
+}
+
+.en {
+
+        direction: ltr;
+}
