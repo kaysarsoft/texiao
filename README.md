@@ -7,6 +7,7 @@
 - 黑白
 - 你想到想不到都有
 - ...
+
 ![输入图片说明](https://data.jsdelivr.com/v1/package/gh/kaysarbiz/texiao/badge)
 
 ### 请我喝杯奶茶
