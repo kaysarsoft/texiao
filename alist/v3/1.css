@@ -1,0 +1,43 @@
+<style>
+/*背景图片*/
+.hope-ui-light{
+  background-image: url("https://api.123home.page/api.php?category=landscape") !important;
+  background-repeat:no-repeat;background-size:cover;background-attachment:fixed;background-position-x:center;
+}
+/*网盘列表样式*/
+.obj-box {
+  border-radius: 15px !important;
+}
+.hope-ui-light .obj-box {
+  background-color: #ffffff70 !important;
+}
+/*README样式*/
+.chakra-ui-light .hope-c-PJLV {
+  background-color: #ffffff70 !important;
+}
+.hope-c-PJLV {
+  border-radius: 15px !important;
+}
+/*不能改*/
+a{color:#1891f9!important;}
+.foot{
+    line-height: 40px;
+    /*   position: fixed; */
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    letter-spacing: 1px;
+}
+.foot p{color: #000;!important;}
+dibu {
+    border-top: 0px;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    margin: 0px;
+    padding: 0px;
+} 
+/*隐藏底部*/
+.css-g9cw6v a{display: none!important;}
+.footer{display: none!important;}
+ </style>
