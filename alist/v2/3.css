@@ -1,3 +1,7 @@
+/*v2版自己写的代码*/
+.css-g9cw6v a{display: none!important;}
+.footer span{display: none!important;}
+/*以上是隐藏底部管理的代码*/
 .chakra-ui-light{
   background-image: url("https://api.123home.page/api.php?category=landscape") !important;
   background-repeat:no-repeat;background-size:cover;background-attachment:fixed;background-position-x:center;
