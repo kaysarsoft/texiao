@@ -1,0 +1,64 @@
+.ab{
+	bottom:95px;
+	position:fixed;
+	/*删除注释变成右侧*/
+	/*right:0px;*/
+	}
+	.fe{
+	border-bottom-left-radius:5px;
+	border-bottom-right-radius:5px;
+	border-top-left-radius:5px;
+	border-top-right-radius:5px;
+	box-shadow:0px 1px 2px rgba(0,0,0,0.35);
+	box-sizing:border-box;
+	color:#FFFFFF;
+	cursor:pointer;
+	display:block;
+	font-family:Arial;
+	font-size:12px;
+	height:41px;
+	margin-bottom:0px;
+	margin-left:0px;
+	margin-right:0px;
+	margin-top:10px;
+	overflow:hidden;
+	padding-bottom:5px;
+	padding-left:6px;
+	padding-right:6px;
+	padding-top:5px;
+	position:relative;
+	text-align:center;
+	text-decoration:none;
+	width:36px;
+	}
+	#q{
+		background-color:#1E6BE3;
+	}
+	#w{
+		background-color:#e22872;
+	}
+	#e{
+		background-color:#af3a9f;
+	}
+	#r{
+		background-color:#7FFF00;
+	}
+	#t{
+	    background-color:#8B4513;
+	}
+	#y{
+	    background-color:#1E90FF;
+	}
+	#u{
+	    background-color:#FF0000;
+	}
+	/*自定义按钮样式结束*/
+     <div class="ab">
+    <a class="fe" id="q" href="./?mod=cardbuy" target="_self" >卡密兑换</a> 
+    <a class="fe" id="w" href="./tongzhi" target="_self" >本站通知</a>
+    <a class="fe" id="u" href="http://chadan.ga/" target="_self" >售后补刷</a>
+    <a class="fe" id="e" href="http://124.222.6.169/blog/index.php/archives/4.html" target="_self" >外卖内卷</a> 
+    <a class="fe" id="r" href="http://124.222.6.169:5244/" target="_self" >免费云盘</a> 
+    <a class="fe" id="t" href="http://ijhif.yhzu.cn/" target="_self" >网购优惠</a> 
+    <a class="fe" id="y" href="https://kaysarbiz.github.io/" target="_self" >团队主页</a> 
+    </div>
