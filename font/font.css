@@ -3,8 +3,8 @@
         font-weight: 400;
         font-style: normal;
         font-display: swap;
-        src: url('https://cdn.jsdelivr.net/gh/kaysarbiz/texiao@main/font/sanjihangkaiti.ttf');
-        src: url('https://cdn.jsdelivr.net/gh/kaysarbiz/texiao@main/font/sanjihangkaiti.ttf') format('truetype');
+        src: url('./sanjihangkaiti.ttf');
+        src: url('./sanjihangkaiti.ttf') format('truetype');
             }
     body,h1, h2, h3,  b, strong,
 body*,h1 *, h2 *, h3 *, b * ,strong *{
