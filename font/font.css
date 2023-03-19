@@ -6,7 +6,9 @@
         src: url('https://cdn.jsdelivr.net/gh/kaysarbiz/texiao@main/font/sanjihangkaiti.ttf');
         src: url('https://cdn.jsdelivr.net/gh/kaysarbiz/texiao@main/font/sanjihangkaiti.ttf') format('truetype');
             }
-
+    *{
+        font-family: 'kaysar';
+            }
     body {
         font-family: 'kaysar';
             }
