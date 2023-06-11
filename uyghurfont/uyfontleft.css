@@ -4,7 +4,7 @@
 
         font-family: 'alkatip basma tom';
 
-        src: url('https://cdn.jsdelivr.net/gh/kaysarbiz/texiao@main/uyghurfont/ALKATIPBasmaTom.ttf') format('truetype');
+        src: url('./ALKATIPBasmaTom.ttf') format('truetype');
 
         font-weight: normal;
 
@@ -16,7 +16,7 @@
 
         font-family: 'alkatip tor';
 
-        src: url('https://cdn.jsdelivr.net/gh/kaysarbiz/texiao@main/uyghurfont/ALKATIPTor.ttf') format('truetype');
+        src: url('./ALKATIPTor.ttf') format('truetype');
 
         font-weight: normal;
 
