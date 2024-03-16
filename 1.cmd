@@ -1,6 +1,6 @@
-color a 4
+color a
 eho 123131232
-color b 5
+color b
 eho 123131232
 color 1 
 eho 123131232
