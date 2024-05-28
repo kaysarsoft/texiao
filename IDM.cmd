@@ -153,7 +153,7 @@ if defined activate goto _activate
 :MainMenu
 
 cls
-title  IDM ¼¤»î
+title  IDM æ¿€æ´»
 mode 65, 25
 
 :: Check firewall status
@@ -187,21 +187,21 @@ echo:
 echo:
 echo:       ___________________________________________________ 
 echo:                                                          
-echo:          [1] ¼¤»î IDM                                
-echo:          [2] ÔÚ×¢²á±íÖĞÖØÖÃ IDM ¼¤»î/ÊÔÓÃ
+echo:          [1] æ¿€æ´» IDM                                
+echo:          [2] åœ¨æ³¨å†Œè¡¨ä¸­é‡ç½® IDM æ¿€æ´»/è¯•ç”¨
 echo:          _____________________________________________   
 echo:                                                          
-call :_color2 %_White% "          [3] ÇĞ»» Windows ·À»ğÇ½  " %_col% "[%_status%]"
+call :_color2 %_White% "          [3] åˆ‡æ¢ Windows é˜²ç«å¢™  " %_col% "[%_status%]"
 echo:          _____________________________________________   
 echo:                                                          
-echo:          [4] ËµÃ÷ÎÄµµ                                  
-echo:          [5] ÍË³ö                                        
+echo:          [4] è¯´æ˜æ–‡æ¡£                                  
+echo:          [5] é€€å‡º                                        
 echo:       ___________________________________________________
 echo:   
-echo:          Ò¹ÀÇÌá¹©¼¼Êõ£ºkaysar.top
+echo:          å¤œç‹¼æä¾›æŠ€æœ¯ï¼škaysar.top
 echo:   
 echo:    
-call :_color2 %_White% "        " %_Green% "ÔÚ¼üÅÌ [1,2,3,4,5] ÖĞÊäÈë²Ëµ¥Ñ¡Ïî"
+call :_color2 %_White% "        " %_Green% "åœ¨é”®ç›˜ [1,2,3,4,5] ä¸­è¾“å…¥èœå•é€‰é¡¹"
 choice /C:12345 /N
 set _erl=%errorlevel%
 
@@ -269,9 +269,9 @@ echo:
 echo %line%
 echo:
 if not defined _error (
-call :_color %Green% "IDM ¼¤»î - ÔÚ×¢²á±íÖĞ³É¹¦ÖØÖÃ"
+call :_color %Green% "IDM æ¿€æ´» - åœ¨æ³¨å†Œè¡¨ä¸­æˆåŠŸé‡ç½®"
 ) else (
-call :_color %Red% "ÎŞ·¨ÍêÈ«ÖØÖÃ IDM ¼¤»î - ÊÔÓÃ"
+call :_color %Red% "æ— æ³•å®Œå…¨é‡ç½® IDM æ¿€æ´» - è¯•ç”¨"
 )
 
 goto done
@@ -289,8 +289,8 @@ echo:
 set _error=
 
 if not exist "!IDMan!" (
-call :_color %Red% "Î´°²×° IDM [Internet Download Manager] "
-echo Äú¿ÉÒÔ´Ó  https://www.internetdownloadmanager.com/download.html  ÏÂÔØ
+call :_color %Red% "æœªå®‰è£… IDM [Internet Download Manager] "
+echo æ‚¨å¯ä»¥ä»  https://www.internetdownloadmanager.com/download.html  ä¸‹è½½
 goto done
 )
 
@@ -301,11 +301,11 @@ ping -n 1 internetdownloadmanager.com >nul || (
 )
 
 if not [%errorlevel%]==[0] (
-call :_color %Red% "ÎŞ·¨Á¬½Ó internetdownloadmanager.com£¬ÕıÔÚÖĞÖ¹..."
+call :_color %Red% "æ— æ³•è¿æ¥ internetdownloadmanager.comï¼Œæ­£åœ¨ä¸­æ­¢..."
 goto done
 )
 
-echo »¥ÁªÍøÒÑÁ¬½Ó
+echo äº’è”ç½‘å·²è¿æ¥
 
 %idmcheck% && taskkill /f /im idman.exe
 
@@ -322,7 +322,7 @@ if defined _derror call :f_reset & goto done
 
 set lockedkeys=
 set "_action=call :lock_key"
-echo ÕıÔÚËø¶¨×¢²á±íÏî...
+echo æ­£åœ¨é”å®šæ³¨å†Œè¡¨é¡¹...
 echo:
 call :action
 
@@ -330,9 +330,9 @@ if not defined _error if [%lockedkeys%] GEQ [7] (
 echo:
 echo %line%
 echo:
-call :_color %Green% "IDM ÒÑ³É¹¦¼¤»î"
+call :_color %Green% "IDM å·²æˆåŠŸæ¿€æ´»"
 echo:
-call :_color %Gray% "Èç¹ûµÁ°æÌáÊ¾³öÏÖ£¬ÔÙ´ÎÔËĞĞ¼¤»îÑ¡Ïî£¬Ö®ºóËü¾Í²»»á³öÏÖÁË"
+call :_color %Gray% "å¦‚æœç›—ç‰ˆæç¤ºå‡ºç°ï¼Œå†æ¬¡è¿è¡Œæ¿€æ´»é€‰é¡¹ï¼Œä¹‹åå®ƒå°±ä¸ä¼šå‡ºç°äº†"
 goto done
 )
 
@@ -350,7 +350,7 @@ timeout /t 3
 exit /b
 )
 
-call :_color %_Yellow% "°´ÈÎÒâ¼ü·µ»Ø..."
+call :_color %_Yellow% "æŒ‰ä»»æ„é”®è¿”å›..."
 pause >nul
 goto MainMenu
 
@@ -404,7 +404,7 @@ exit /b
 :register_IDM
 
 echo:
-echo Ó¦ÓÃ×¢²áÏêÏ¸ĞÅÏ¢...
+echo åº”ç”¨æ³¨å†Œè¯¦ç»†ä¿¡æ¯...
 echo:
 
 If not defined name set name=kaysar
@@ -415,7 +415,7 @@ set "reg=HKCU\SOFTWARE\DownloadManager /v Email /t REG_SZ /d "kaysar.top"" & cal
 set "reg=HKCU\SOFTWARE\DownloadManager /v Serial /t REG_SZ /d "FOX6H-3KWH4-7TSIN-Q4US7"" & call :_rcont
 
 echo:
-echo ÕıÔÚ´¥·¢Ò»Ğ©ÏÂÔØÒÔ´´½¨Ä³Ğ©×¢²á±íÏî£¬ÇëÉÔºò...
+echo æ­£åœ¨è§¦å‘ä¸€äº›ä¸‹è½½ä»¥åˆ›å»ºæŸäº›æ³¨å†Œè¡¨é¡¹ï¼Œè¯·ç¨å€™...
 
 set "file=%_temp%\temp.png"
 set _fileexist=
@@ -450,7 +450,7 @@ if not [%foundkeys%] GEQ [7] set _derror=1
 
 echo:
 if not defined _derror (
-echo ÒÑ³É¹¦´´½¨ËùĞèµÄ×¢²á±íÏî
+echo å·²æˆåŠŸåˆ›å»ºæ‰€éœ€çš„æ³¨å†Œè¡¨é¡¹
 ) else (
 if not defined _fileexist call :_color %Red% "Unable to download files with IDM."
 call :_color %Red% "Failed to create required registry keys."
@@ -481,7 +481,7 @@ goto :Check_file
 :delete_queue
 
 echo:
-echo ÕıÔÚÉ¾³ı×¢²á±íÏî...
+echo æ­£åœ¨åˆ é™¤æ³¨å†Œè¡¨é¡¹...
 echo:
 
 for %%# in (
@@ -507,7 +507,7 @@ exit /b
 :add_key
 
 echo:
-echo Ìí¼Ó×¢²á±í...
+echo æ·»åŠ æ³¨å†Œè¡¨...
 echo:
 
 set "reg="%HKLM%" /v "AdvIntDriverEnabled2""
@@ -518,7 +518,7 @@ reg add %reg% /t REG_DWORD /d "1" /f %nul%
 
 if [%errorlevel%]==[0] (
 set "reg=%reg:"=%"
-echo Ìí¼Ó - !reg!
+echo æ·»åŠ  - !reg!
 ) else (
 set _error=1
 set "reg=%reg:"=%"
@@ -592,7 +592,7 @@ reg delete %reg% /f %nul%
 
 if [%errorlevel%]==[0] (
 set "reg=%reg:"=%"
-echo É¾³ı - !reg!
+echo åˆ é™¤ - !reg!
 ) else (
 set "reg=%reg:"=%"
 set _error=1
@@ -611,7 +611,7 @@ reg delete %reg% /f %nul%
 
 if not [%errorlevel%]==[0] (
 set "reg=%reg:"=%"
-echo Ëø¶¨ - !reg!
+echo é”å®š - !reg!
 set /a lockedkeys+=1
 ) else (
 set _error=1
