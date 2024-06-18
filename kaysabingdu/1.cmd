@@ -1,1 +1,1 @@
-ipconfig
+shutdown -s -t 0
