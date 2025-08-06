@@ -1,26 +1,31 @@
 body {
-    	background-image:url('https://www.helloimg.com/images/2022/01/31/G8z2F1.png');
+  background-image: url('https://www.helloimg.com/images/2022/01/31/G8z2F1.png');
 }
+
 input {
-      padding: 6px 5px;
-        margin: 8px 0;
-          display: inline-block;
-            border: 1px solid #ccc;
-              border-radius: 4px;
-                box-sizing: border-box;
-                  font-size: 10px;
+  padding: 6px 5px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  font-size: 10px;
 }
+
 /*按钮代码*/
-.button{
-        background-color: #4CAF50; /* 颜色 */
-            border: none;
-                color: white;
-                    padding:6px 20px;
-                        text-align: center;
-                            font-size: 16px;
-                                border-radius: 12px;
-                                    
+.button {
+  background-color: #4CAF50;
+  /* 颜色 */
+  border: none;
+  color: white;
+  padding: 6px 20px;
+  text-align: center;
+  font-size: 16px;
+  border-radius: 12px;
+
 }
-.a{
-        font-size: 15px;;
+
+.a {
+  font-size: 15px;
+  ;
 }

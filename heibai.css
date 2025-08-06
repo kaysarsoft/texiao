@@ -1,7 +1,7 @@
 html {
 
-        filter: progid:DXImageTransform.Microsoft.BasicImage(grayscale=1);
+    filter: progid:DXImageTransform.Microsoft.BasicImage(grayscale=1);
 
-            -webkit-filter: grayscale(100%);
+    -webkit-filter: grayscale(100%);
 
 }
