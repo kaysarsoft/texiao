@@ -1,12 +1,12 @@
 //爱心飘落动画效果
-//创建日期：26.02.20
+//创建日期：26.02.20.1
 
 			// 全局变量定义
 			var stop; // 用于存储动画帧ID，用于停止动画
 			var staticx; // 标记动画是否正在运行
 			var img = new Image(); // 创建图片对象
 			// 设置爱心图片地址
-			img.src = "https://cdn.jsdmirror.com/gh/kaysarsoft/texiao@557652a311ab5c5a0e8b32795bff2387adf3ce91/aixin/aixin.png#1";
+			img.src = "./aixin.png";
 			
 			/**
 			 * 爱心类
