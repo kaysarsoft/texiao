@@ -2,8 +2,8 @@
 
 			var stop, staticx;
 			var img = new Image();
-			img.src = "aixin.png";
-
+			img.src = "https://cdn.jsdmirror.com/gh/kaysarsoft/texiao@557652a311ab5c5a0e8b32795bff2387adf3ce91/aixin/aixin.png#1";
+			
 			function Sakura(x, y, s, r, fn) {
 				this.x = x;
 				this.y = y;
