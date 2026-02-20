@@ -6,7 +6,7 @@
 			var staticx; // 标记动画是否正在运行
 			var img = new Image(); // 创建图片对象
 			// 设置爱心图片地址
-			img.src = "./aixin.png";
+			img.src = "https://cdn.jsdmirror.com/gh/kaysarsoft/texiao@704fe2758705bcbc7670f0f1414ec0b6b331d059/aixin/aixin.png";
 			
 			/**
 			 * 爱心类
