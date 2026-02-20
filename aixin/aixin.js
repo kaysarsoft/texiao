@@ -1,8 +1,8 @@
-//爱心❤
+//爱心❤26.02.20
 
 			var stop, staticx;
 			var img = new Image();
-			img.src = "./aixin/aixin.png#1";
+			img.src = "./aixin.png#1";
 
 			function Sakura(x, y, s, r, fn) {
 				this.x = x;
